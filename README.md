@@ -1,2 +1,1 @@
-# Example
-An example greeter plugin
+Runlite plugin that changes the stat icon to be perfectly balanced, as all things should be 
