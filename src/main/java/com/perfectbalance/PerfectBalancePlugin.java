@@ -1,6 +1,5 @@
 package com.perfectbalance;
 
-import com.google.inject.Provides;
 import javax.inject.Inject;
 
 import lombok.extern.slf4j.Slf4j;
@@ -17,8 +16,7 @@ import java.awt.image.BufferedImage;
 @Slf4j
 @PluginDescriptor(
 	name = "Perfect Balance",
-	description = "Changes the skill tab icon to be perfectly balanced.",
-	enabledByDefault = false
+	description = "Changes the skill tab icon to be perfectly balanced."
 )
 public class PerfectBalancePlugin extends Plugin
 {
